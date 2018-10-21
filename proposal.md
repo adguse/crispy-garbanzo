@@ -1,4 +1,4 @@
-# X-Team Schedule Generator Project Proposal
+# X-Team NN Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -29,21 +29,22 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-The problem our team would like to solve is to create a program that allows the user to discover what classes they need to take over the course of their remaining years at UW Madison depending on their major. Our scheduler will generate a four year plan for students based on what classes they have already taken and avoiding classes that would be difficult to take at the same time. 
+Briefly describe a problem that your team would like to solve.  
+Describe at a high level a program that could solve that problem.
 
 ## Questions to answer for Exercise #2
 
-1. Name: Schedule Generator
+1. Name: Give your project proposal a name (and edit the top line of this file)
 
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-
+Output would be in an excel file or google sheets file that contain a recommended schedule with lectures already choosen out for you. The program will automatically choose non-confliting lectures and will make sure your classes keep you on track towards your major.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-
+You will have to input your college, your current year in college, your major and what classes you have already taken. You will also be asked some optional preference question like would you rather have morning classes or evening classes, would you rather have a busy day then a relaxed day or two half-busy days. How long do you want your lunch and what kind of transporation do you have. You can answer these questions through the programs UI
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
