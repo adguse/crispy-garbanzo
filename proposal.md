@@ -29,8 +29,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+The problem our team would like to solve is to create a program that allows the user to discover what classes they need to take over the course of their remaining years at UW Madison depending on their major. Our scheduler will generate a four year plan for students based on what classes they have already taken and avoiding classes that would be difficult to take at the same time. 
 
 ## Questions to answer for Exercise #2
 
