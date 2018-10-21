@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 004 Schedule Generator Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -29,12 +29,11 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+The problem our team would like to solve is to create a program that allows the user to discover what classes they need to take over the course of their remaining years at UW Madison depending on their major. Our scheduler will generate a four year plan for students based on what classes they have already taken and avoiding classes that would be difficult to take at the same time.
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
+1. Name: Schedule Generator
 
 
 
@@ -50,15 +49,17 @@ You will have to input your college, your current year in college, your major an
 
 Users will interact with text boxes and lists for inputing the class names, number of credits desired per semester, current year in college and other inputs. Buttons will allow the user to submit this information. Since the output is in excel format, it can be easily modified without many specific GUI elements.  
 
-5. Types List: Our program would consist of 4 classes.
-               ..1This class would keep track of classes that the user is taking and has taken.
-               ..2Another class would keep track of classes that the user still needs to take depending on their major.
-               ..3We need a class that handles classes that shouldn't be taken at the same time and prerequisites.
-               ..4Finally we need a class for the GUI and a main method.
-
+5. Types List: 
+Our program would make use of a custom data structure in which we would have a priority queue that would give the highest priority to classes that you need for your major to graduate and other classes are given lower priority. The highest priority is given to prerequisite classes that must be taken in order for you to take other major required classes later on. The priority queue would interact with the input given taking into consideration classes you have already taken.
+Another data structure that we would need to implement is an array list that consists of all of the classes the user has already taken and is currently taking.
 
 
 Name each interface or class and briefly describe its function or purpose.
+Our program would consist of 4 classes.
+               1. This class would keep track of classes that the user is taking and has taken.
+               2. Another class would keep track of classes that the user still needs to take depending on their major.
+               3. We need a class that handles classes that shouldn't be taken at the same time and prerequisites.
+               4. Finally we need a class for the GUI and a main method.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
