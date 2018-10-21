@@ -14,7 +14,9 @@ We will assign tasks based on who feels the strongest for that specific tasks. I
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-
+- We will message eachother in our group chat to make sure that everyone has done the work that they were supposed to do before the deadline.
+- For some tasks, we will meet up in person and complete tasks that are due together and before we leave we will make sure everything is complete.
+- We will be sure to remind eachother of upcoming due dates thorough our group chat.
 
 ## How will will communicate difficulties with a task assigned to us
 Difficulties will be communicated in meetings that proceed important deadlines 
