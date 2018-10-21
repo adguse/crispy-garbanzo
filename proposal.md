@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team Schedule Generator Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -28,14 +28,11 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
  Tip: Your custom data structure can be composed of or extensions of data structures that you have learned and used in previous programming assignments.  We're looking for decisions about how to build a high-level data structure that will likely have lower-level components.
 
 ## Problem Description
-
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+The problem our team would like to solve is to create a program that allows the user to discover what classes they need to take over the course of their remaining years at UW Madison depending on their major. Our scheduler will generate a four year plan for students based on what classes they have already taken and avoiding classes that would be difficult to take at the same time.
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
-
+1. Name: Schedule Generator
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
