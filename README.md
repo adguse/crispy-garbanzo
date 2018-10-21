@@ -10,7 +10,7 @@
        * GitHub username 1: adguse      name 1: Alexander Guse
        * GitHub username 2: sjmita      name 2: Sumita Jayaraman
        * GitHub username 3: kwaghray1   name 3: Kunal Waghray
-       * GitHub username 4:       name 4:
+       * GitHub username 4: TonyisEpicness name3: Tony Tu
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 10/21/2018
    * How long did it take your team to complete this exercise? 1.5 hours
