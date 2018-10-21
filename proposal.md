@@ -50,11 +50,12 @@ You will have to input your college, your current year in college, your major an
 Users will interact with text boxes for inputing the class names and number of credits desired per semester, lists for selecting the number of credits for each class and classes that are prerequisites (which will prevent users for giving slightly different 
 names for each class in class names and prerequisite sections). Buttons and moveable elements will allow users to submit class information and change the recommendations given. 
 
-5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+5. Types List: Our program would consist of 4 classes.
+               1) This class would keep track of classes that the user is taking and has taken.
+               2) Another class would keep track of classes that the user still needs to take depending on their major.
+               3) We need a class that handles classes that shouldn't be taken at the same time.
+               4) Finally we need a class for the GUI and a main method.
 
-
-
-Name each interface or class and briefly describe its function or purpose.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
