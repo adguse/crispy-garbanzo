@@ -14,6 +14,7 @@ We will assign tasks based on who feels the strongest for that specific tasks. I
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
+We will communicate progress through texting. We can view our team's cueernt progress on GitHub.
 
 ## How will will communicate difficulties with a task assigned to us
 Difficulties will be communicated in meetings that proceed important deadlines 
