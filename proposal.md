@@ -48,14 +48,13 @@ You will have to input your college, your current year in college, your major an
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-Users will interact with text boxes for inputing the class names and number of credits desired per semester, lists for selecting the number of credits for each class and classes that are prerequisites (which will prevent users for giving slightly different 
-names for each class in class names and prerequisite sections). Text boxes and lists will be used as neccessary for the rest of the inputs. The output will allow users to change the recommendations given. 
+Users will interact with text boxes and lists for inputing the class names, number of credits desired per semester, current year in college and other inputs. Buttons will allow the user to submit this information. Since the output is in excel format, it can be easily modified without many specific GUI elements.  
 
 5. Types List: Our program would consist of 4 classes.
-..1. This class would keep track of classes that the user is taking and has taken.
-..2. Another class would keep track of classes that the user still needs to take depending on their major.
-..3. We need a class that handles classes that shouldn't be taken at the same time.
-..4. Finally we need a class for the GUI and a main method.
+               ..1This class would keep track of classes that the user is taking and has taken.
+               ..2Another class would keep track of classes that the user still needs to take depending on their major.
+               ..3We need a class that handles classes that shouldn't be taken at the same time.
+               ..4Finally we need a class for the GUI and a main method.
 
 
 
