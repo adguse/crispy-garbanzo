@@ -31,5 +31,6 @@ for which has already been shared amongst us).
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
+Be Cheerful.
 Communication is key!
 
