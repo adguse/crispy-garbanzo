@@ -43,7 +43,7 @@ Output would be in an excel file or google sheets file that contain a recommende
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-You will have to input your college, your current year in college, your major and what classes you have already taken. You will also be asked some optional preference question like would you rather have morning classes or evening classes, would you rather have a busy day then a relaxed day or two half-busy days. How long do you want your lunch and what kind of transporation do you have. You can answer these questions through the programs UI
+You will have to input your college, your current year in college, your major and what classes you have already taken. You will also be asked some optional preference question like would you rather have morning classes or evening classes, would you rather have a busy day then a relaxed day or two half-busy days. How long do you want your lunch and what kind of transporation do you have. You can answer these questions through the programs UI. AP Credits and what classes can be skipped with the credit.
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
