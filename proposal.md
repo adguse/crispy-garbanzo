@@ -1,4 +1,4 @@
-# X-Team 004 Schedule Generator Project Proposal
+# X-Team NN Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -29,11 +29,12 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-The problem our team would like to solve is to create a program that allows the user to discover what classes they need to take over the course of their remaining years at UW Madison depending on their major. Our scheduler will generate a four year plan for students based on what classes they have already taken and avoiding classes that would be difficult to take at the same time.
+Briefly describe a problem that your team would like to solve.  
+Describe at a high level a program that could solve that problem.
 
 ## Questions to answer for Exercise #2
 
-1. Name: Schedule Generator
+1. Name: Give your project proposal a name (and edit the top line of this file)
 
 
 
@@ -48,14 +49,13 @@ You will have to input your college, your current year in college, your major an
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
 Users will interact with text boxes for inputing the class names and number of credits desired per semester, lists for selecting the number of credits for each class and classes that are prerequisites (which will prevent users for giving slightly different 
-names for each class in class names and prerequisite sections). Buttons and moveable elements will allow users to submit class information and change the recommendations given. 
+names for each class in class names and prerequisite sections). Text boxes and lists will be used as neccessary for the rest of the inputs. The output will allow users to change the recommendations given. 
 
-5. Types List: Our program would consist of 4 classes.
-               1) This class would keep track of classes that the user is taking and has taken.
-               2) Another class would keep track of classes that the user still needs to take depending on their major.
-               3) We need a class that handles classes that shouldn't be taken at the same time.
-               4) Finally we need a class for the GUI and a main method.
+5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
+
+
+Name each interface or class and briefly describe its function or purpose.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
