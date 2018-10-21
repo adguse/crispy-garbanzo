@@ -10,7 +10,7 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-
+We will assign tasks based on who feels the strongest for that specific tasks. If one member is having trouble other members will provide support.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
