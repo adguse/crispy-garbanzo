@@ -48,7 +48,8 @@ You will have to input your college, your current year in college, your major an
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-
+Users will interact with text boxes for inputing the class names and number of credits desired per semester, lists for selecting the number of credits for each class and classes that are prerequisites (which will prevent users for giving slightly different 
+names for each class in class names and prerequisite sections). Buttons and moveable elements will allow users to submit class information and change the recommendations given. 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
