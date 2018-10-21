@@ -10,7 +10,7 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-We will assign tasks based on who feels the strongest for that specific tasks. If one member is having trouble other members will provide support to that person.
+We will assign tasks based on who feels the strongest for that specific tasks. If one member is having trouble other members will provide support to that person. If we discover that one person's task is not working well for them, we can talk about reassigning or figure out a way to help that person to ensure they are able to complete their own task.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
