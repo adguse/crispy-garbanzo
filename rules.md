@@ -10,11 +10,11 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-We will assign tasks based on who feels the strongest for that specific tasks. If one member is having trouble other members will provide support.
+We will assign tasks based on who feels the strongest for that specific tasks. If one member is having trouble other members will provide support to that person.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-We will communicate progress through texting. We can view our team's cueernt progress on GitHub.
+We will communicate progress through texting. We can view our team's progress on GitHub.
 
 ## How will will communicate difficulties with a task assigned to us
 Difficulties will be communicated in meetings that proceed important deadlines 
