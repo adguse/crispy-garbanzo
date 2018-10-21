@@ -62,6 +62,7 @@ Our program would consist of 4 classes.
 2. Another class would keep track of classes that the user still needs to take depending on their major.
 3. We need a class that handles classes that shouldn't be taken at the same time and prerequisites.
 4. Finally we need a class for the GUI and a main method.
+5. We will also include a test class to test the implementation of our priority queue and arrayList.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
