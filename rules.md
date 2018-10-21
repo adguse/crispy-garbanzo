@@ -19,7 +19,7 @@ and missed deadlines.
 ## How will will communicate difficulties with a task assigned to us
 Difficulties will be communicated in meetings that proceed important deadlines 
 as well as through direct messages through email and sms (the contact information 
-for which has already been shared amongst us. 
+for which has already been shared amongst us). 
 
 
 ## How we will back up each other to ensure that deadlines are not missed
